@@ -1,9 +1,3 @@
-<h1 align="center">👀 MReye research group</h1>
-
-<p align="center">
-  <i><strong>Advancing eye care through applied imaging science</strong></i>
-</p>
-
 We are the **MReye research group at Leiden University Medical Center (LUMC)**, a multidisciplinary team embedded within the **C.J. Gorter MRI Center** and the LUMC departments of **Ophthalmology, Radiology, and Radiation Oncology**.
 
 We develop and evaluate new imaging, modelling, and computational techniques to improve the diagnosis, treatment, and understanding of ocular conditions. A major focus of our work is **ocular MRI and uveal melanoma**, alongside ocular proton therapy and patient-specific visual optics. Our goal is to translate technological innovation into better care for patients with eye disease.
